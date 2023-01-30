@@ -1,0 +1,58 @@
+# PathofHopeChapter
+# https://gamebanana.com/mods/150534
+
+RecordCount: 163
+
+console load 1up/pathofhope
+   1,R
+  88
+#Start
+   1,Z
+   9
+  12,J
+   1,U,G
+  10,R,J,G
+   1,G
+   7,R,J,G
+  16,R
+   1,Z
+   3
+   6,R,J
+  25,R
+   1,G
+  16,J,G
+   1,G
+  19,L,J,G
+   1,G
+  12,R,J,G
+   5,U,X
+  92
+#a02
+   1,R,J
+   3,J
+  11,R,J
+   3,R
+   1,X
+  10
+   5,J
+   1,X
+  10
+   4,J
+  40
+  12,R
+  87
+  11,J
+   1,X
+  15
+  22,L
+  23,U,G
+  10,L,J,G
+  17
+   1,R,Z
+   3
+  16,R,J
+  10,R
+   9,U,G
+  16,R,J,G
+   6,R
+   1,X
